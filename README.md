@@ -11,11 +11,14 @@ npm install react-native-number-progress
 ## Usage
 
 ```js
-import { multiply } from "react-native-number-progress";
+import ProgressBar from 'react-native-number-progress';
 
 // ...
 
-const result = await multiply(3, 7);
+<View style={styles.container}> 
+  <Text style={{marginBottom:20}}>Progress Bar:</Text>
+  <ProgressBar size={6} progress={3}/>
+</View>
 ```
 
 ## Contributing
