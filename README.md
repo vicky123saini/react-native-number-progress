@@ -4,6 +4,8 @@ progress bar with numbers
 
 ## Installation
 
+![image](https://user-images.githubusercontent.com/2674996/157446673-6ee6ded9-cd24-465d-98c2-2367209afa29.png)
+
 ```sh
 npm install react-native-number-progress
 ```
